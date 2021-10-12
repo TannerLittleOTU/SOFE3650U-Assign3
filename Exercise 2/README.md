@@ -4,4 +4,4 @@ operator called displayProduct(Product). Implement this operator in both Display
 TicketPrinter and modify the CashRegister component to leverage this operator. This 2nd
 implementation uses Interfaces to invert the dependency between the Model and View
 
-![Screenshot](https://imgur.com/a/Z0cBDNt)
+![Screenshot](https://i.imgur.com/oyAu4nT.png)
