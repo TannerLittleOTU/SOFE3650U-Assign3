@@ -1,4 +1,4 @@
-# Exercise 1
+# Exercise 2
 Create a View interface that the Display and TicketPrinter will inherent from that contains an
 operator called displayProduct(Product). Implement this operator in both Display and
 TicketPrinter and modify the CashRegister component to leverage this operator. This 2nd
