@@ -22,16 +22,7 @@ public class Main {
         register.addObserver(observer2);
 
 
-        register.setCurrentProductUPC("777");
+        register.setCurrentProductUPC("012345678912");
 
-
-
-        Keyboard keyboard = new Keyboard(register);
-        Scanner scanner = new Scanner(register);
-/**
-        keyboard.setUPCCode("012345678912");
-        keyboard.setUPCCode("201234567899");
-        scanner.setUPCCode("512345000107");
-        scanner.setUPCCode("401234567893"); **/
     }
 }
