@@ -30,7 +30,7 @@ public class CashRegister extends Observable {
         setChanged();
 
         // Send information to the views
-        notifyObservers(upc);
+        notifyObservers(product.toString());
     }
 
     // Gets the product information for the latest scanned product.
