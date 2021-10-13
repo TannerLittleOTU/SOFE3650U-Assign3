@@ -2,7 +2,7 @@
 ## Advantages
 - Easy to manage and develop applications 
 - Classes and objects are independent of each other
-- Each object has different responsibilities
+- Each object has a different responsibility
 
 ##	Disadvantages
 - Model can be complex
